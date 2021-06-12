@@ -5,5 +5,8 @@
 layout: home
 ---
 
+<h1>Welcome</h1>
 
-Work in Progress - Come back at a later time
+From time to time I will update this page and fill it with a little more content.
+
+In the meantime, why don't you take a look at my [projects](/projects)

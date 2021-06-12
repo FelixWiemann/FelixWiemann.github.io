@@ -1,8 +1,15 @@
 <header class="post-header">
     <h1 class="post-title">{{ page.project }}</h1>
+    {{ headerimage }}
 </header>
 
+{{ project_description }}
+
+<h2>Development status</h2>
+
 <a href="https://github.com/{{site.github_username}}/{{page.project_github}}">github project</a>
+
+current dev status until next release: <img src="{{ page.project_devstatus }}" alt="">
 
 <table>
     <tr><th>deployment branch</th><th>current release</th><th>status</th></tr>
@@ -32,3 +39,6 @@
 
     
 </table>
+
+
+{{ legal }}

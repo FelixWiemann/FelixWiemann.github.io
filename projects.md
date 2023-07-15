@@ -10,7 +10,13 @@ Here is a selection of projects I have been or currently am working on in my fre
 <h3>Notes</h3>
 An android app for creating, storing and managing your notes on your phone.
 
-You can find its project page [here](/projects/notes)
+You can find its project page [here](/projects/notes).
+
+<h3>Tour Visualizer</h3>
+A small python script able to visualize gpx tour data.
+The gpx data is analyzed in multiple ways and displayed on a map.
+The project repo can be found [here](https://github.com/FelixWiemann/Tours).
+
 
 <h2>Open source contributions</h2>
 

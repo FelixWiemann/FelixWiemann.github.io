@@ -9,4 +9,8 @@ layout: home
 
 From time to time I will update this page and fill it with a little more content.
 
-In the meantime, why don't you take a look at my [projects](/projects)
+<h2>Projects</h2>
+Here is a list of some of my [projects and contributions](/projects).
+
+<h2>Tours</h2>
+One of my projects is to prepare data of tours I made visually. [Here](/tours) you can find the results. 

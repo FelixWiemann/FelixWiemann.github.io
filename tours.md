@@ -4,6 +4,13 @@ title: Tours
 permalink: /tours/
 ---
 <h1>Tours</h1>
+<h2>2024</h2>
+<h3>April - Gothenburg</h3>
+<ul>
+    <li><a href="./StoraDelsjön">around Stora Delsjön</a></li>
+</ul>
+
+
 <h2>2023</h2>
 <h3>June/July - Rheinsteig</h3>
 More info: <a href="https://www.rheinsteig.de/en/rheinsteig">official Rheinsteig site</a>

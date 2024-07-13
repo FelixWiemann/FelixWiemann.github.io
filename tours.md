@@ -5,6 +5,10 @@ permalink: /tours/
 ---
 <h1>Tours</h1>
 <h2>2024</h2>
+<h3>Dolomiten</h3>
+<ul>
+    <li><a href="./Dolomiten24">Pustertaler Höhenweg Variation</a></li>
+</ul>
 <h3>April - Gothenburg</h3>
 <ul>
     <li><a href="./StoraDelsjön">around Stora Delsjön</a></li>
